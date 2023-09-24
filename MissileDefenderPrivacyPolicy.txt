@@ -1,0 +1,40 @@
+Information Collection
+All data collected is purely for the Unity Ads SDK. Data is not collected or shared outside of functionality for Unity Ads.
+a. Personal Information: We do collect user ID information for app functionality.
+
+b. Non-Personal Information: We collect non-personal information such as device information (e.g., device type, operating system version), unique device identifiers (e.g., advertising identifiers), mobile network information, and anonymous usage data (e.g., interactions within the App).
+
+Use of Collected Information
+
+a. Ad Performance and Analytics: We analyze non-personal information to evaluate the performance of ads, including metrics such as ad views, clicks, and interactions, to improve our ad delivery and effectiveness.
+
+Third-Party Advertising Partners
+
+a. We work with the Unity Ads SDK to display advertisements within the App.
+
+b. These third-party partners may collect and use non-personal information to provide personalized advertisements.
+
+Disclosure of Information
+
+a. Third-Party Service Providers: We may share non-personal information with our third-party service provider who assists us in delivering advertisements and analyzing ad performance.
+
+b. Legal Requirements: We may disclose non-personal information in response to a legal request or to comply with applicable laws, regulations, or governmental requests.
+
+
+Children's Privacy
+
+Our App is not intended for use by individuals under the age of 13. We do not knowingly collect or solicit personal information from children under 13.
+
+Security
+
+We take reasonable measures to protect non-personal information from unauthorized access or disclosure. However, please be aware that no security measures are foolproof.
+
+Changes to this Policy
+
+We reserve the right to modify this Policy at any time. Changes will be effective upon posting the updated Policy within the App.
+
+Contact Us
+
+If you have any questions or concerns about this Policy, please contact us at casenshoe@gmail.com
+
+By using our App, you agree to the terms and conditions of this Privacy Policy.
